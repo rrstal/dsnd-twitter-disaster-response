@@ -67,8 +67,8 @@ The input data files of tweet messages and categories are located in **data** fo
 
 1. Upon launching the web app, user can see the following screen. Main page presents graphs conveying information about the training dataset.  
 
-![Sample Input](media/twitter.01.PNG)
+![Sample Input](media/twitter01.png)
 
 2. Once the user inserts a message and clicks on the button **Classify Message**, a list of possible categories unrolls. If the message was categorized to a certain category, this one will be highlighted in light green.
 
-![Sample Output](media/twitter02.PNG)
+![Sample Output](media/twitter02.png)
